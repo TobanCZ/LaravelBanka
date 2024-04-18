@@ -1,0 +1,1 @@
+spusti se pomoci npm start
